@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express.js Note Taker that can write, save, edit and delete notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pythonidaer/express-note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Pythonidaer/express-note-taker/issues"
+  },
+  "homepage": "https://github.com/Pythonidaer/express-note-taker#readme"
+}

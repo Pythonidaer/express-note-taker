@@ -3,6 +3,8 @@
 
 ## Description 
 >*Express.js Note Taker that can write, save, edit and delete notes.*
+[View Deployed Version Here](https://npm-express-note-taker.herokuapp.com/)
+Note: Bootcamp did not create mobile-responsive text, so you will want to view this on a computer rather than a cell phone. iPads/tablets are fine.
 
 -----------
 ## Table of Contents

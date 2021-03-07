@@ -23,7 +23,8 @@
 
 -----------
 ## Installation 
->[Click Here To Watch How To Video]( )
+>[Click Here To Watch How To Video](https://drive.google.com/file/d/18HlMWcC_DRKWkPZMGBccZT5G4ThC7QKM/view)
+The video cuts out a bit at the end, but you'll get the gist of it. If you have any questions feel free to reach out to me. Twitter is easiest... I'm way too active on it.
 
 -----------
 

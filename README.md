@@ -1,7 +1,55 @@
-# express-note-taker
-Express.js Note Taker that can write, save, edit and delete notes.
+# Express Note Taker
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
+## Description 
+>*Express.js Note Taker that can write, save, edit and delete notes.*
 
+-----------
+## Table of Contents
+
+* [Installation and 'How to' Video](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Resources](#resources)
+
+* [Questions](#questions)
+
+-----------
+## Installation 
+>[Click Here To Watch How To Video]( )
+
+-----------
+
+## Usage 
+I made sure to leave some good comments for all the code so you can get an idea of what does what. This project is open for all to use and manipulate however they like. Learn HTTP Methods, the Express Web Server Framework, and more especially `nodemon` which is simply an amazing package for all intents and purposes.
+
+-----------
+
+## License 
+This project was created under the MIT License.
+
+-----------
+
+## Contributing 
+This homework was definitely a group effort. I can't thank enough my study group partners Joe Lyons, Toni Powell, Cathy Marchese, Patrick DeMarco and Heath Bennett for the brainstorming. Even when we were hitting walls understanding the express concepts and syntax, it was great being able to work out what wasn't understanding in a Rubby Ducky Method type of way.
+
+Also, major shout out to my tutor Byron Brown, who showed me how to do the same thing in different ways, so I wasn't glued arbitrarily to certain patterns I found in the assignments or online. Also, thank you to him, Steve Griffith and Brad Traversy for the detailed explanations of complex topics such as express, try/catch, and how to integrate node's file system module into a route handler.
+
+-----------
+
+## Tests 
+This website will be deployed momentarily to Heroku. This will be the live test, with a 'Note Taker App' note already saved to the app upon deployment (it's technically the sole object within an array within the db json file). View video for installation instructions to download on your local machine and test further.
+
+-----------
+
+## Resources
 [How To Use __dirname in Node.js](https://www.digitalocean.com/community/tutorials/nodejs-how-to-use__dirname#:~:text=__dirname%20is%20an%20environment,containing%20the%20currently%20executing%20file.)
  
 [W3Schools Node.js path.join() Method](https://www.w3schools.com/nodejs/met_path_join.asp)
@@ -89,5 +137,15 @@ Express.js Note Taker that can write, save, edit and delete notes.
 [array.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 [Error Handling in Express.js](https://expressjs.com/en/guide/error-handling.html)
- 
+
+-----------
+
+## Questions 
+GitHub: https://github.com/Pythonidaer
+
+For additional information, please reach out to codefolio.work@gmail.com
+
+<a href="https://twitter.com/jonamichahammo">
+    <img alt="Twitter: jonamichahammo" src="https://img.shields.io/twitter/follow/jonamichahammo.svg?style=social" target="_blank" />
+</a> 
  

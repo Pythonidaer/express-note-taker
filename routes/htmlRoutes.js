@@ -1,25 +1,18 @@
-// DEPENDENCIES
-// We need to include the path package to get the correct file path for our html
-
+// Import router object mini-application for subpaths used
+const router = require('express').Router();
+// Import path module for handling and transforming file paths
 const path = require('path');
 
-// ROUTING
+// read data with the GET request for specified endpoints (* means anything other than /notes)
+router.get('/notes', (req, res) => {
+    // transfers the HTML file at this given path
+    res.sendFile(path.join(__dirname, "../public/notes.html"));
+})
 
-module.exports = (app) => {
-  // => HTML GET Requests
-  // Below code handles when users "visit" a page.
-  // In each of the below cases the user is shown an HTML page of content
+router.get("*", (req, res) => {
+    /* __dirname is an environment variable that tells you the absolute path of the directory
+    containing the currently executing file */
+    res.sendFile(path.join(__dirname, "../public/index.html"));
+})
 
-  app.get('/tables', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/tables.html'));
-  });
-
-  app.get('/reserve', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/reserve.html'));
-  });
-
-  // If no matching route is found default to home
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/home.html'));
-  });
-};
+module.exports = router;

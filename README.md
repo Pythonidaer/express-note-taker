@@ -48,32 +48,46 @@ Express.js Note Taker that can write, save, edit and delete notes.
  
 [send](https://github.com/pillarjs/send)
  
-[]()
+[Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
  
-[]()
+[Using Middleware](https://expressjs.com/en/guide/using-middleware.html)
  
-[]()
+[Node.js Tips](https://codeburst.io/node-js-tips-read-json-serve-static-files-sorting-file-listings-f92a8559a89e)
  
-[]()
+[JSON Placeholder](https://jsonplaceholder.typicode.com/)
  
-[]()
+[When to use try/catch](https://stackoverflow.com/questions/1722964/when-to-use-try-catch-blocks)
  
-[]()
+[Learn express middleware](https://www.youtube.com/watch?v=lY6icfhap2o&t=12s)
  
-[]()
+[Why router vs app](https://www.reddit.com/r/node/comments/8q83ry/appget_vs_routerget/)
  
-[]()
+[axios vs. express](https://www.quora.com/What-is-the-difference-between-Express-and-the-Axios-in-Node-js)
  
-[]()
+[console.log(http.METHODS)](https://www.youtube.com/watch?v=IGFdJxkJRC0&list=PLyuRouwmQCjne87u8XUdOM5oCl7vI2vVL&index=3)
  
-[]()
+[Troubleshooting req. - headers, url, ip, hostname, method, protocol, path, query, params and subdomains](https://youtu.be/IGFdJxkJRC0?list=PLyuRouwmQCjne87u8XUdOM5oCl7vI2vVL&t=427)
  
-[]()
+[HTTP Request Verbs](https://www.youtube.com/watch?v=Pm28JXFAu4Y&list=PLyuRouwmQCjne87u8XUdOM5oCl7vI2vVL&index=5)
  
-[]()
+[How to use app.patch()](https://www.codota.com/code/javascript/functions/patch)
  
-[]()
+[How do API Keys work](https://www.youtube.com/watch?v=cF_MCAmuoI4&list=PLyuRouwmQCjne87u8XUdOM5oCl7vI2vVL&index=12)
  
-[]()
+[Express syntax](https://expressjs.com/en/5x/api.html)
+
+[Joseph Lyons Express Notes](https://github.com/Josephjlyons/express-notes/blob/main/routes/apiRoutes.js)
+
+[Trying to Parse an HTML Document](https://developers.suitecommerce.com/troubleshooting-uncaught-syntaxerror-unexpected-token-u-in-json-at-position-0.html)
+ 
+[Unexpected Token In Json at Position 0](https://daveceddia.com/unexpected-token-in-json-at-position-0/)
+ 
+[HTTP Status Codes](https://kinsta.com/blog/http-status-codes/)
+ 
+[FearMichael 2021-mock-express](https://github.com/FearMichael/2021-mock-express)
+
+[array.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
+[Error Handling in Express.js](https://expressjs.com/en/guide/error-handling.html)
  
  

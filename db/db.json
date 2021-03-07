@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"id":"edf1ab15-e6e2-43db-9aaa-889f49af6c34","title":"Note Taker App","text":"Utilizes .get(), .post(), .delete() HTTP methods, as well as npm express, uuid, nodemon, and the built in node filesystem (fs) package."}]

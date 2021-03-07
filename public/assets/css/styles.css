@@ -4,6 +4,10 @@ html, body {
   padding: 0;
 }
 
+.bg-dark {
+  background-color: #3B2F63 !important;
+}
+
 .save-note {
   display: none;
 }
